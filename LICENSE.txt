@@ -1,0 +1,17 @@
+Licencia MIT
+
+Copyright (c) 2022 Universidad Paraguayo Alemana.
+
+El permiso está concedido por este medio, sin costo alguno, a cualquier persona que
+obtenga una copia de este software y su respectiva documentación, con posibilidades
+de utilizarlo según dicho individuo decida, incluyendo acciones como usar, copiar,
+modificar, mezclar, publicar, distribuir y/o vender copias del presente software bajo
+las siguiente condiciones:
+
+La copia de este permiso debe ir incluida en cada copia distribuída de este software
+o en su defecto en porciones visualmente acecsibles del mismo.
+
+NÓTESE QUE EL SOFTWARE ES OFRECIDO "TAL COMO ES", SIN SER PROPORCIONADA NINGUNA GARANTÍA
+SU CORRECTO FUNCIONAMIENTO EN ENTORNOS DE APLICACIÓN DISTINTOS A AQUEL UTILIZADO PARA SU
+DESARROLLO. TAMPOCO SE OFRECE GARANTÍA DE UNA APLICACIÓN VALEDERA DE ESTE SOFTWARE A LOS
+PROPÓSITOS PARA LOS QUE SE DESEE APLICARLO.
