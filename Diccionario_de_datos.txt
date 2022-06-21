@@ -1,0 +1,14 @@
+El archivo de formato .csv resultante contiene los siguientes campos:
+
+  Categoría Producto: Se refiere a la asiganción de tipo de producto que recibe cada observación.
+                      Respecto a este punto, se puede encontrar la lista completa de productos comercializados
+                      por la empresa (Procesadores, Tarjetas de vídeo, etc.) en el plan de negocios.
+                      
+  Nombre Producto:    Se refiere al nombre comercial que recibe el artículo scrapeado en cuestión.
+                      Estos nombres no se han modificado desde su fetching desde su página original.
+                      
+  Precio Producto:    Se refiere al valor numérico entero que representa el monto monetario, en guaraníes,
+                      del costo del producto según la página web de la empresa desde la que fue scrapeada.
+                      
+  Tienda:             Se refiere al nombre comercial de la empresa desde la que fue realizado el scrapeo de 
+                      cada producto observado. (En este caso o Nissei o Compulandia) 
